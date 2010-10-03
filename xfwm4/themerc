@@ -1,0 +1,19 @@
+full_width_title=false
+button_offset=-3
+button_spacing=0
+title_alignment=right
+title_vertical_offset_active=2
+title_vertical_offset_inactive=2
+button_layout=|OSHMC
+active_text_color=#000000
+inactive_text_color=#747474
+
+
+# button_layout :
+#    O = Option menu
+#    T = Stick
+#    H = hide
+#    S = shade
+#    M = maximize
+#    C = close
+#    | = title
